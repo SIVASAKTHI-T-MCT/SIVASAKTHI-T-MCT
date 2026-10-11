@@ -169,8 +169,8 @@ My long-term goal is to develop **reliable, maintainable, and well-tested embedd
 I'm interested in engineering collaboration, technical discussions, internships, and opportunities related to embedded software, robotics, and intelligent systems.
 
 - **GitHub:** [SIVASAKTHI-T-MCT](https://github.com/SIVASAKTHI-T-MCT)
-- **LinkedIn:** Add your LinkedIn profile URL
-- **Email:** Add your professional email address
+- **LinkedIn:** [SIVASAKTHI T](https://www.linkedin.com/in/sivasakthi-t-90bb6531b)
+- **Email:** [siva26sakthi05@gmail.com](mailto:siva26sakthi05@gmail.com)
 
 ---
 
